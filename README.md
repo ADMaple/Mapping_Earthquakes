@@ -20,7 +20,7 @@ To complete this project, I used GeoJSON earthquake data from the USGS website, 
 
 ![Maps Challenge](https://user-images.githubusercontent.com/108022219/192426014-a6fe1306-977e-47c2-b083-4d4eed568b4a.png)
 
-I used JavaScript and the D3.js library to pull the coordinates and magnitudes of earthquakes from the GeoJSON data and the Leaflet library to plot the data on a Mapbox map through an API request. I also created interactivity for the earthquake data via map legends.
+JavaScript and the D3.js library were used to pull the coordinates and magnitudes of earthquakes from the GeoJSON dat with the Leaflet library to plot the data on a Mapbox map through an API request. This was done by adding multiple layers using the tectonic plate and major earthquake data sets.
 
 
 
